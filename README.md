@@ -20,6 +20,7 @@ Make sure you have Java installed on your system.
 Open the project in your preferred IDE (e.g., IntelliJ, Eclipse).
 
 Follow any additional setup instructions specific to each project.
+Navigate to the app folder to run the app.
 
 # Usage
 Each project includes a README.md with more details on how to run and use them.
